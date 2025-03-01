@@ -71,5 +71,5 @@ This project is open-source and available under the MIT License.
 Developed by Vamsi Krishna Sirivela. Contributions are welcome!
 
 ## Roadmap
-For a detailed roadmap of this project, visit: [Number Guessing Game Roadmap](https://roadmap.sh/projects/task-tracker)
+For a detailed roadmap of this project, visit: https://roadmap.sh/projects/number-guessing-game
 
